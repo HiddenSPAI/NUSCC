@@ -1,2 +1,0 @@
-# NUSCC
-A secret page
